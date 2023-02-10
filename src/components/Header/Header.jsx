@@ -16,13 +16,13 @@ function Header() {
                         <nav className="header__nav">
                             <ul className="header__list">
                                 <li className="header__item">
-                                    <a href="" className="header__link">Каталог</a>
+                                    <a href="/katalog" className="header__link">Каталог</a>
                                 </li>
                                 <li className="header__item">
-                                    <a href="" className="header__link">О Нас</a>
+                                    <a href="/info" className="header__link">О Нас</a>
                                 </li>
                                 <li className="header__item">
-                                    <a href="" className="header__link">Контакты</a>
+                                    <a href="/contscts" className="header__link">Контакты</a>
                                 </li>
                             </ul>
                         </nav>
